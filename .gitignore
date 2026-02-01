@@ -1,0 +1,8 @@
+# common
+.idea
+
+# godot
+.godot
+
+# rust
+target
